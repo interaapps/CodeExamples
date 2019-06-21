@@ -1,2 +1,2 @@
-# THE BIG HELLO WORLD SHOWCASE
-Here you can find hello world scripts for many languages!
+# THE BIG LANGUAGE SHOWCASE
+Here you can find example scripts for many languages!
