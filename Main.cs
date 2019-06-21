@@ -1,11 +1,7 @@
-using System;
-namespace Main
-{
-    class Main 
-    {
-        static void Main() 
-        {
-            Console.WriteLine("Hello world!");
+namespace Main {
+    class Main {
+        static void Main() {
+            System.Console.WriteLine("Hello world!");
         }
     }
 }
